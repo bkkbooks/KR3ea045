@@ -1801,7 +1801,6 @@ markers:
   - {type: 'tls:seg', offset: 2718, content: '', id: KR3ea045_jc_009-d11.d3.p10s3}
   - {type: punctuation, offset: 2722, content: ，, id: KR3ea045_jc_009-bkkpn706}
   - {type: 'tls:seg', offset: 2722, content: '', id: KR3ea045_jc_009-d11.d3.p10s4}
-  - {type: substitution, offset: 2724, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 2726, content: 。, id: KR3ea045_jc_009-bkkpn707}
   - {type: xml-element, offset: 2726, content: '', id: KR3ea045_jc_009-d11.d3p10_end, name: p, role: close, attrs: {'xml:id': KR3ea045_jc_009-d11.d3p10}}
   - {type: xml-element, offset: 2726, content: '', id: KR3ea045_jc_009-d11.d3p12, name: p, role: open, attrs: {'xml:id': KR3ea045_jc_009-d11.d3p12}}
@@ -2209,7 +2208,6 @@ markers:
   - {type: 'tls:seg', offset: 3355, content: '', id: KR3ea045_jc_009-d11.d3.p58s4}
   - {type: punctuation, offset: 3357, content: ，, id: KR3ea045_jc_009-bkkpn857}
   - {type: 'tls:seg', offset: 3357, content: '', id: KR3ea045_jc_009-d11.d3.p58s5}
-  - {type: substitution, offset: 3361, original: 菸, replacement: 烟, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0992}}
   - {type: punctuation, offset: 3365, content: 。, id: KR3ea045_jc_009-bkkpn858}
   - {type: 'tls:seg', offset: 3365, content: '', id: KR3ea045_jc_009-d11.d3.p58s6}
   - {type: punctuation, offset: 3367, content: 。, id: KR3ea045_jc_009-bkkpn859}
@@ -2429,4 +2427,4 @@ markers:
   - {type: punctuation, offset: 3742, content: 。, id: KR3ea045_jc_009-bkkpn942}
   - {type: xml-element, offset: 3742, content: '', id: KR3ea045_jc_009-d11.d3p78_end, name: p, role: close, attrs: {'xml:id': KR3ea045_jc_009-d11.d3p78}}
   back: []
-hash: sha256:7ae607ef6feb076800c0ac667c503a60d2ae2042aa0416996c0e4019175080cb
+hash: sha256:7805f9d66cc6930f13d4591416bcb15209c3dc87016605bbac664ec86b59ba5c
