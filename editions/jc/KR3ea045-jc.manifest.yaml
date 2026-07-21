@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ea045_000-jc.yaml, hash: 'sha256:2946376eb692d61951eb911cd4b392f75f2b0198ec08c957b427e3551a2a9ff7'}
+  - {seq: 0, filename: KR3ea045_000-jc.yaml, hash: 'sha256:221d07c02beda2e4ca07d16b7ca34e005c3a0daacacbf0569378152201bb487e'}
   - {seq: 1, filename: KR3ea045_001-jc.yaml, hash: 'sha256:54ac0ecdd6d945507aa1f0808115f7d83491100a8a5d7216f4c17657b799a97e'}
   - {seq: 2, filename: KR3ea045_002-jc.yaml, hash: 'sha256:84e081bf12b6b1bbb718529573e5745f08acf913ccf946b3b75f7a92b70b0642'}
   - {seq: 3, filename: KR3ea045_003-jc.yaml, hash: 'sha256:20c1cb6a5aa10ad994b80a8b3c3eac3aa04c670dd307511a5940a352e1aceedc'}
@@ -34,7 +34,7 @@ assets:
   - {seq: 14, filename: KR3ea045_014-jc.yaml, hash: 'sha256:46e888ab38f49a9af32126e1cb22b432c27e4ab5c1942e12242f92fa5b0053b2'}
   - {seq: 15, filename: KR3ea045_015-jc.yaml, hash: 'sha256:43f175e089a3f8f95ff9548dfbfe10cd2158a6639ab4b36b55d977aa5747d5d3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ea045_000-jc.markers.yaml, hash: 'sha256:f2bb6c6b063d5dd2022853b643d34052b4eba70588843bfaf285a7eb9f1c0c00'}
+  - {seq: 0, role: markers, filename: assets/KR3ea045_000-jc.markers.yaml, hash: 'sha256:8a864babbfb44c01cdc0c7b4119d252575e0ce812f6a01256445728bbdecfae4'}
   - {seq: 1, role: markers, filename: assets/KR3ea045_001-jc.markers.yaml, hash: 'sha256:2327ed71fae7d4b298e064dabd7ca920c631f2ffbe5193b79d2c398fdd6e0c93'}
   - {seq: 2, role: markers, filename: assets/KR3ea045_002-jc.markers.yaml, hash: 'sha256:9b5a1d01ef8a44ed606110a939fdc45fea048e5b305aac504d20f7bbaaa4002f'}
   - {seq: 3, role: markers, filename: assets/KR3ea045_003-jc.markers.yaml, hash: 'sha256:595e1a85cdda5fb3a731fb4389960482dcbd58be591c8e8b710457a06f3e6576'}
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ea045_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 943
   label: 重刻劉守真先生宣明論方序
@@ -1271,4 +1271,4 @@ table_of_contents:
   label: 瘡疹總論
   type: section
   level: 3
-hash: sha256:14cbefb2a67a2dac409c0aeec14cf817a4ea728b6db77e41a6701cc3788e588e
+hash: sha256:fe9f9ba2974dadb59c46fcecf51f152307df61600828dbe6cc85f09a7f7887b9
